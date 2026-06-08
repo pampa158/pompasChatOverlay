@@ -11,7 +11,7 @@ Chatpompastv es una aplicación de escritorio que muestra un overlay siempre vis
 ## ¿Cómo descargar y usar la app?
  ### NO requiere instalación.
   1. Descargá el archivo `Chatpompastv.exe` desde la lista de archivos de este repositorio o en el link.
-     [Ejecutable ChatpompasTV v1.1.0](https://github.com/pampa158/pompasChatOverlay/releases/tag/v1.1.0)
+     [Ejecutable ChatpompasTV v1.1.0](https://github.com/pampa158/pompasChatOverlay/releases/download/v1.1.0/Chatpompastv.exe)
   3. Ejecutá el .exe con doble click.
   4. En configuración escribí tu "Usuario de Twitch" para que la app lo reconozca.
   5. Ajustá el tema oscuro/claro/personalizado y la opacidad
